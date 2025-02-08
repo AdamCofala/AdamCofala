@@ -28,3 +28,7 @@ I am currently attending high school with a curriculum tailored to math, physics
 ## Contact
 
 Feel free to reach out if you'd like to connect or collaborate on any projects! I am available on my instagram [@adam_cofala](https://www.instagram.com/adam_cofala/).
+
+<img src="https://raw.githubusercontent.com/AdamCofala/AdamCofala/output/snake.svg" alt="Snake animation" />
+
+###
