@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @AdamCofala
-- 👀 I’m interested in programming and graphic design.
-- 🌱 I’m currently learning C++ and a lot of fucking math.
-- 💞️ I’m looking to collaborate on funny projects.
-- 📫 How to reach me, u cant.
-- 😄 Pronouns: Military Helicopter/
-- ⚡ Fun fact: I hate parasites so fucking much.
+# README
 
-<!---
-AdamCofala/AdamCofala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! My name is **Adam**.
+
+## About Me
+
+I'm a high school student with a passion for math, programming, and wildlife photography. I am currently studying on a profile focused on math, physics, and IT, which fuels my curiosity and drive to learn more.
+
+## Interests
+
+- **Mathematics**: I love exploring mathematical concepts and solving challenging problems.
+- **Programming**: Coding is not only a skill but a creative outlet for building projects and solving real-world issues.
+- **Art ([Photography & Graphic Design](https://acdesignpl.wixsite.com/portfolio))**: I enjoy expressing creativity through various art forms, including photography and graphic design.
+
+## Education
+
+I am currently attending high school with a curriculum tailored to math, physics, and IT. This program helps me develop a strong foundation in analytical thinking and technical skills.
+
+## Goals
+
+- Deepen my understanding of advanced mathematical concepts and their practical applications.
+- Pass the high school computer science matura exam.
+- Enhance my programming skills through innovative projects.
+
+## Contact
+
+Feel free to reach out if you'd like to connect or collaborate on any projects!
