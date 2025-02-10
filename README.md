@@ -1,6 +1,5 @@
-# 
 
-Hello! My name is **Adam**.
+### Hello! My name is **Adam**.
 
 ## About Me
 
