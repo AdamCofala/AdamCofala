@@ -3,7 +3,7 @@
 ## About Me
 
 I'm a **computer science student** at the Faculty of Electronics and Information Technology (WEiTI), Warsaw University of Technology.  
-I’m interested in **mathematics**, **programming**, and **wildlife photography** – combining analytical thinking with creativity, from solving complex problems to capturing unique moments in nature.
+I’m interested in **mathematics**, **programming**, and **astronomy** – combining analytical thinking with creativity, from solving complex problems to capturing unique moments on pictures.
 
 ---
 
